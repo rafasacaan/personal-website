@@ -1,2 +1,2 @@
-## Read me 
-This is the code for my personal website using getskeleton.com.
+## README
+Código de página web para publicar música.
