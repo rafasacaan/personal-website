@@ -71,6 +71,10 @@ width:90%;
   font-family: 'Amatic SC', cursive;
 }
 
+#text {
+  padding: 21px;
+}
+
 /* Audio Player Styles
 ================================================== */
 

@@ -24,17 +24,12 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "The Forsaken pianist",
-                "duration": "8:31",
-                "file": "piano1.mp3"
+                "name": " Castillo de piedra",
+                "duration": "0:41",
+                "file": "shake_that_thing.mp3"
             }, {
                 "track": 2,
-                "name": "The piano is talking",
-                "duration": "5:05",
-                "file": "piano2.mp3"
-            }, {
-                "track": 3,
-                "name": "A piano talk",
+                "name": " Chau, adiós",
                 "duration": "1:01",
                 "file": "piano3.mp3"
             }],
