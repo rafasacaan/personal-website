@@ -282,7 +282,8 @@ sup {
 }
 
 /* Links */
-a {
+a, 
+a small  {
     /* color: var(--color-text); */
     color: #e448ab;
     display: inline-block;
@@ -510,7 +511,7 @@ table tr td:first-child {
 /* Quotes */
 blockquote {
     display: block;
-    font-size: x-large;
+    font-size: large;
     line-height: var(--line-height);
     margin: 1rem auto;
     max-width: var(--width-card-medium);
@@ -550,4 +551,8 @@ blockquote footer {
 /* Custom */
 #name {
     text-align: left;
+}
+
+[id^="defaultCanvas"] {
+    width: 100%;
 }
